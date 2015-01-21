@@ -1,1 +1,16 @@
+.gradle/
+.idea/
+build/
+buildSrc
 out/
+*.iml
+*.ipr
+*.iws
+*.log*
+*.class
+dependencies
+opslog.location_IS_UNDEFINED
+.idea/
+.sonar-ide.properties
+classes/
+target/
